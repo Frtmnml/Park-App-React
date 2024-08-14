@@ -13,8 +13,9 @@ const Navbar = () => {
       <div>
         <Link to="/">
           <img
-            className="h-[50px]"
-            src="/images/wb-100.png"
+            className="h-[20px]"
+            // src="/images/wb-100.png"
+            src="/images/valet/Valet-logo-162x36.png"
             alt="WorkBuddy - Manage your tasks and todos easily"
           />
         </Link>
